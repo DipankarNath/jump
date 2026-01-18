@@ -14,11 +14,3 @@ Tabs: to open a new tab when the user explicitly triggers navigation.
 
 If you have any questions about this privacy policy, you can contact the developer via the project repository.
 
-✅ Ultra-short version (also acceptable)
-
-If you want the minimal version:
-
-Privacy Policy
-
-Jump does not collect or transmit any user data.
-All data is stored locally using Chrome’s storage API and is never shared with third parties.
