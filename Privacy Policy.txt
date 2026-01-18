@@ -22,13 +22,3 @@ Privacy Policy
 
 Jump does not collect or transmit any user data.
 All data is stored locally using Chrome’s storage API and is never shared with third parties.
-
-🔍 Chrome Review Tip (important)
-
-Make sure:
-
-The Privacy Policy URL is public
-
-It does not require login
-
-It clearly states no data collection
