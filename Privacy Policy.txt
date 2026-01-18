@@ -1,0 +1,34 @@
+Privacy Policy
+
+Jump does not collect, transmit, or share any personal data.
+
+All data used by the extension, including URL templates and preferences, is stored locally using Chrome’s storage API and remains on the user’s device or Chrome sync storage. This data is never sent to external servers.
+
+The extension does not use analytics, tracking, advertising, or remote code execution.
+
+Jump only accesses browser permissions that are required for its core functionality:
+
+Storage: to save user-defined URL templates and preferences.
+
+Tabs: to open a new tab when the user explicitly triggers navigation.
+
+If you have any questions about this privacy policy, you can contact the developer via the project repository.
+
+✅ Ultra-short version (also acceptable)
+
+If you want the minimal version:
+
+Privacy Policy
+
+Jump does not collect or transmit any user data.
+All data is stored locally using Chrome’s storage API and is never shared with third parties.
+
+🔍 Chrome Review Tip (important)
+
+Make sure:
+
+The Privacy Policy URL is public
+
+It does not require login
+
+It clearly states no data collection
